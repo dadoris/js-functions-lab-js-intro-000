@@ -2,6 +2,6 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(strName) {
-  return `Happy holidays, $(strName)!`
+function happyHolidays() (name) {
+  return `Happy holidays, $(name)!`
 }
